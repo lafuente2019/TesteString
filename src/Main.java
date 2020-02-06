@@ -1,5 +1,7 @@
 public class Main {
-
+	
+  // TESTE PARA FAZER COMMIT
+	
 	public static void main(String[] args) {
 		
 		String original = "abcde FGHIJ ABC abc DEFG";
